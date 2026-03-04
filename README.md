@@ -1,5 +1,3 @@
-# 💫 About Me:
-I'm currently working on online-cinema<br>I'm currently learning Vue.js <br>Belarus, Minsk
 
 
 ## 🌐 Socials:
